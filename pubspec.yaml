@@ -1,0 +1,23 @@
+name: cek_ongkir
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  dropdown_search: ^5.0.6
+  get: ^4.6.6
+  http: ^1.2.0
+  intl: 0.19.0
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
